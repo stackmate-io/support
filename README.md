@@ -16,6 +16,8 @@ To get started with Stackmate.io, visit our website at https://stackmate.io and 
 Stackmate is the perfect solution for the busy professional. We work hard to abstract any complexity and make sure you can deploy your applications to the cloud as fast and efficiently as it gets. Just add a repository to Stackmate.io and you'll be up and running in just a few minutes.
 
 ## Get support
-- For bug reports, issues, questions feature requests, you can [create a GitHub issue in this repository](https://github.com/stackmate-io/stackmate.io/issues/new)
-- Our knowledge base can be found at https://stackmate.io/help-center/
-- You can contact us at https://stackmate.io/contact/
+- 🧭 Follow our [public roadmap](https://github.com/stackmate-io/stackmate.io/projects/1)
+- 🐞 For bug reports, issues, questions feature requests, you can [create a GitHub issue in this repository](https://github.com/stackmate-io/stackmate.io/issues/new)
+- 📖 Our knowledge base can be found at https://stackmate.io/help-center/
+- 📧 You can contact us at https://stackmate.io/contact/
+- ❤️ You can follow us on Twitter at [@stackmate](https://twitter.com/stackmate) and [@falexandrou](https://twitter.com/falexandrou)
