@@ -40,7 +40,3 @@ Stackmate is the perfect solution for the busy professional. We work hard to abs
 - 📖 Our documentation can be found at [docs.stackmate.io](https://docs.stackmate.io)
 - 📧 Contact us at https://stackmate.io/contact/
 - ❤️ Follow us on Twitter at [@stackmate](https://twitter.com/stackmate) and [@falexandrou](https://twitter.com/falexandrou)
-
-
-<script async defer data-domain="github.com/stackmate-io/stackmate.io" src="https://plausible.io/js/plausible.js"></script>
-
