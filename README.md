@@ -6,7 +6,7 @@
   <a href="https://stackmate.io">
     🏡 Website
   </a>
-
+  &nbsp;
   <a href="https://github.com/stackmate-io/stackmate.io/projects/1">
     🧭 Roadmap
   </a>
