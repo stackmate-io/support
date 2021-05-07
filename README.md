@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <a href="https://stackmate.io">
+    🏡 Website
+  </a>
+
   <a href="https://github.com/stackmate-io/stackmate.io/projects/1">
     🧭 Roadmap
   </a>
@@ -22,7 +26,7 @@
 
 
 ## What is Stackmate.io
-Stackmate.io is the easiest way to deploy web applications to **your** AWS accounts. All you have to do is provide a GitHub repository, and we take it from there: deploy your AWS instances, SSL certificates, RDS databases, Elasticache clusters, Data volumes, S3 buckets, Cloudfront distributions and more! We also take care of your configurations for nginx, puma, gunicorn for you and provide an easy way to manage those per environment.
+[Stackmate.io](https://stackmate.io) is the easiest way to deploy web applications to **your** AWS accounts. All you have to do is provide a GitHub repository, and we take it from there: deploy your AWS instances, SSL certificates, RDS databases, Elasticache clusters, Data volumes, S3 buckets, Cloudfront distributions and more! We also take care of your configurations for nginx, puma, gunicorn for you and provide an easy way to manage those per environment.
 
 ## What Stackmate.io is not
 We're not a hosting company. We're merely a provisioning tool that helps you launch your AWS resources, on AWS accounts that you provide and manage. Every resource deployed by Stackmate.io, whether it's servers, databases, storage or content distribution networks, is directly accessible via your AWS console. We just make sure your apps get deployed to a secure and reliable AWS setup.
