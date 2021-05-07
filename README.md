@@ -2,6 +2,24 @@
   <img src="https://raw.githubusercontent.com/stackmate-io/stackmate.io/main/stackmate-logo.png" alt="Stackmate logo" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/stackmate-io/stackmate.io/projects/1">
+    🧭 Roadmap
+  </a>
+  &nbsp;
+  <a href="https://github.com/stackmate-io/stackmate.io/issues/new">
+    🐞 Report an issue
+  </a>
+  &nbsp;
+  <a href="https://stackmate.io/help-center/">
+    ❓ FAQs
+  </a>
+  &nbsp;
+  <a href="https://docs.stackmate.io">
+    📖 Documentation
+  </a>
+</p>
+
 
 ## What is Stackmate.io
 Stackmate.io is the easiest way to deploy web applications to **your** AWS accounts. All you have to do is provide a GitHub repository, and we take it from there: deploy your AWS instances, SSL certificates, RDS databases, Elasticache clusters, Data volumes, S3 buckets, Cloudfront distributions and more! We also take care of your configurations for nginx, puma, gunicorn for you and provide an easy way to manage those per environment.
@@ -18,7 +36,7 @@ Stackmate is the perfect solution for the busy professional. We work hard to abs
 ## Get support
 - 🧭 Follow our [public roadmap](https://github.com/stackmate-io/stackmate.io/projects/1)
 - 🐞 For bug reports, issues, questions feature requests, [create a GitHub issue in this repository](https://github.com/stackmate-io/stackmate.io/issues/new)
-- 📖 Our knowledge base can be found at https://stackmate.io/help-center/
-- ✍️ Our documentation can be found at [docs.stackmate.io](https://docs.stackmate.io)
+- ❓ Our knowledge base can be found at https://stackmate.io/help-center/
+- 📖 Our documentation can be found at [docs.stackmate.io](https://docs.stackmate.io)
 - 📧 Contact us at https://stackmate.io/contact/
 - ❤️ Follow us on Twitter at [@stackmate](https://twitter.com/stackmate) and [@falexandrou](https://twitter.com/falexandrou)
