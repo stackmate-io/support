@@ -17,7 +17,8 @@ Stackmate is the perfect solution for the busy professional. We work hard to abs
 
 ## Get support
 - 🧭 Follow our [public roadmap](https://github.com/stackmate-io/stackmate.io/projects/1)
-- 🐞 For bug reports, issues, questions feature requests, you can [create a GitHub issue in this repository](https://github.com/stackmate-io/stackmate.io/issues/new)
+- 🐞 For bug reports, issues, questions feature requests, [create a GitHub issue in this repository](https://github.com/stackmate-io/stackmate.io/issues/new)
 - 📖 Our knowledge base can be found at https://stackmate.io/help-center/
-- 📧 You can contact us at https://stackmate.io/contact/
-- ❤️ You can follow us on Twitter at [@stackmate](https://twitter.com/stackmate) and [@falexandrou](https://twitter.com/falexandrou)
+- ✍️ Our documentation can be found at [docs.stackmate.io](https://docs.stackmate.io)
+- 📧 Contact us at https://stackmate.io/contact/
+- ❤️ Follow us on Twitter at [@stackmate](https://twitter.com/stackmate) and [@falexandrou](https://twitter.com/falexandrou)
