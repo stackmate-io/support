@@ -31,6 +31,9 @@
 ## What Stackmate.io is not
 We're not a hosting company. We're merely a provisioning tool that helps you launch your AWS resources, on AWS accounts that you provide and manage. Every resource deployed by Stackmate.io, whether it's servers, databases, storage or content distribution networks, is directly accessible via your AWS console. We just make sure your apps get deployed to a secure and reliable AWS setup.
 
+## What is this repository
+This repository hosts the [public roadmap](https://github.com/stackmate-io/stackmate.io/projects/1) for our platform, and the [issue tracker](https://github.com/stackmate-io/stackmate.io/issues/new) that you can use to raise issues, ask questions or request new features.
+
 ## Getting started
 To get started with Stackmate.io, visit our website at https://stackmate.io and log in with your GitHub account. You will then be able to add AWS accounts and deploy your projects to the cloud. You can read more about how Stackmate.io works at [docs.stackmate.io](https://docs.stackmate.io)
 
